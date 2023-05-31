@@ -23,6 +23,7 @@ var (
 		"chinaz",
 		"commoncrawl",
 		"crtsh",
+		"criminalip",
 		"digitorus",
 		"dnsdumpster",
 		"dnsdb",
