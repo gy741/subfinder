@@ -61,6 +61,7 @@ var AllSources = [...]subscraping.Source{
 	&chinaz.Source{},
 	&commoncrawl.Source{},
 	&crtsh.Source{},
+	&criminalip.Source{},
 	&digitorus.Source{},
 	&dnsdb.Source{},
 	&dnsdumpster.Source{},
